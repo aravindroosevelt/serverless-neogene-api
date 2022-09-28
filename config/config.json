@@ -1,0 +1,23 @@
+{
+    "development": {
+        "username": "neogenedev",
+        "password": "neogenedev010203",
+        "database": "neogenedev",
+        "host": "neogene-dev.csqth4u0zi2z.us-west-2.rds.amazonaws.com",
+        "dialect": "postgresql"
+    },
+    "test": {
+        "username": "root",
+        "password": null,
+        "database": "database_test",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    },
+    "production": {
+        "username": "root",
+        "password": null,
+        "database": "database_production",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    }
+}
